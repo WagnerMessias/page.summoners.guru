@@ -1,5 +1,5 @@
 
-Page Product: https://wagnermessias.github.io/summoners.guru
+Page Product: https://wagnermessias.github.io/page.summoners.guru
 Directory: https://assistant.google.com/services/a/uid/000000767422b370?hl=en-GB
 
 Credits Theme:
